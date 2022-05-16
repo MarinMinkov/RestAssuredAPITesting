@@ -1,0 +1,7 @@
+<suite name="Suite1" verbose="1" parallel="classes">
+    <test name="Regression1">
+        <classes>
+            <class name="apitests.APITests"/>
+        </classes>
+    </test>
+</suite>
